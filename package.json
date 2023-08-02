@@ -1,0 +1,21 @@
+{
+  "name": "duke-cli",
+  "version": "0.0.1",
+  "description": "cli to bootstrap projects easy in typescript",
+  "main": "index.ts",
+  "author": "Quajo Duke",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.4.2",
+    "chalk": "^5.3.0",
+    "commander": "^11.0.0",
+    "fs-extra": "^11.1.1",
+    "inquirer": "^9.2.8",
+    "ora": "^6.3.1",
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.1",
+    "@types/inquirer": "^9.0.3"
+  }
+}
